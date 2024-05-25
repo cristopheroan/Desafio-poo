@@ -42,3 +42,4 @@ classDiagram
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
 ```
+### [Diagrama](https://www.mermaidchart.com/raw/bc3025c9-ae5f-4697-8488-2f2447938d29?theme=light&version=v0.1&format=svg)
